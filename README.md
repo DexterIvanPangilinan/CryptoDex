@@ -43,3 +43,12 @@ pragma solidity 0.8.18;
         }   
        }
      }
+Make a new file and give it a name. Then, copy the code from above. Then, when you paste it, paste the code that I provided. Go to the "Solidity Compiler" tab on the left sidebar, check the auto compiler box, and then click compile (+the name of your file). Once the code is compiled, you may deploy the contract by clicking the "Deploy & Run Transactions" page. Select the contract (name of your file) from the dropdown menu, then click the "Deploy" button.
+
+After clicking the "transact" button, paste the transaction account into the "balances section" and then click all the buttons (balances, TokenAcro, TokenName, and totalSupply) to see the results. Repeat the procedure for the "mint" section for the "burn" section, where the quantity you enter will be subtracted from the total balance.
+# Author
+ Dexter Ivan A. Pangilinan
+ BSIT 2.1
+# License
+ This project is licensed under the MIT License - see the LICENSE.md file for details
+ 
