@@ -21,7 +21,7 @@ pragma solidity 0.8.18;
        to the amount that is supposed to be burned.
 */
 
-     contract MyToken {
+    contract MyToken {
 
     // public variables here
     string public tokenName = "CryptoDex";
@@ -41,5 +41,5 @@ pragma solidity 0.8.18;
         totalSupply -= _value;
         balances [_address] -= _value;  
         }   
-    }
-}
+        }
+        }
