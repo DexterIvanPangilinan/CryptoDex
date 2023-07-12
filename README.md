@@ -48,6 +48,7 @@ Make a new file and give it a name. Then, copy the code from above. Then, when y
 After clicking the "transact" button, paste the transaction account into the "balances section" and then click all the buttons (balances, TokenAcro, TokenName, and totalSupply) to see the results. Repeat the procedure for the "mint" section for the "burn" section, where the quantity you enter will be subtracted from the total balance.
 # Author
  Dexter Ivan A. Pangilinan
+
  BSIT 2.1
 # License
  This project is licensed under the MIT License - see the LICENSE.md file for details
