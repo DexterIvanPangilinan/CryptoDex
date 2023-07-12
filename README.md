@@ -3,11 +3,12 @@ For the purpose of showing account balance and transactions, the CryptoDex is a 
 # Description
 The CryptoDex is a smart contract written with the Solidity program on the Ethereum Blockchain. The user can add and deduct transactions from accounts using this program, and the balance of amounts input and output will be presented.
 # Getting Started
-So to try run this program here in https://remix.ethereum.org/. in here you can run this code. Add file then paste this code that I created 
-// SPDX-License-Identifier: MIT
-pragma solidity 0.8.18;
+So to try run this program here in https://remix.ethereum.org/. in here you can run this code. Add file then paste this code that I created
 
-/*
+    // SPDX-License-Identifier: MIT
+    pragma solidity 0.8.18;
+
+    /*
        REQUIREMENTS
     1. Your contract will have public variables that store the details about your coin (Token Name, Token Abbrv., Total Supply)
     
