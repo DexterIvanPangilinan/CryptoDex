@@ -25,7 +25,7 @@ So to try run this program here in https://remix.ethereum.org/. in here you can 
        
     5. Lastly, your burn function should have conditionals to make sure the balance of "sender" is greater than or equal 
        to the amount that is supposed to be burned.
-*/
+     */
 
     contract MyToken {
 
