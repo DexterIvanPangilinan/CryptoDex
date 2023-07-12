@@ -41,5 +41,5 @@ pragma solidity 0.8.18;
         totalSupply -= _value;
         balances [_address] -= _value;  
         }   
-        }
-        }
+       }
+     }
